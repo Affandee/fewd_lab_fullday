@@ -113,7 +113,7 @@ main{
 
 }
 .c1_bg{
-  background: url(/imgs/barista-5055060_1280.jpg);
+  background: url("/imgs/barista-5055060_1280.jpg");
   position:relative;
   height: 200px;
   background-size: cover;
@@ -121,7 +121,7 @@ main{
 }
 
 .c2_bg{
-  background: url(/imgs/beach-1751455_1280.jpg);
+  background: url("/imgs/beach-1751455_1280.jpg");
   position: relative;
   height: 200px;
   background-size: cover;
@@ -129,7 +129,7 @@ main{
 }
 
 .c3_bg{
-  background: url(/imgs/melbourne-41111.jpg);
+  background: url("/imgs/melbourne-41111.jpg");
   position: relative;
   height: 200px;
   background-size:cover;
@@ -144,6 +144,7 @@ main{
   display: flex;
   flex-direction: column;
   align-items: center;
+  padding-top:60px;
 
 }
 
